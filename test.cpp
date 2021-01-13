@@ -21,5 +21,7 @@ int main(int argc, char *argv[])
     cout << "dev2 branch add line." << endl;
 
     cout << "player 2 no facless." << endl;
+
+    cout << "player 2 no facless again." << endl;
     return 0;
 }
