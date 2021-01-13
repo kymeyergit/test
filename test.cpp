@@ -28,5 +28,7 @@ int main(int argc, char *argv[])
 
     cout << "player 1 faceless again" << endl;
 
+    cout << "player 1 add third time." << endl;
+
     return 0;
 }
