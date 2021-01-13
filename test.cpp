@@ -19,5 +19,7 @@ int main(int argc, char *argv[])
     cout << "dev3 add line again." << endl;
     cout << buf1[2] << " " << buf2[3] << endl;
     cout << "dev2 branch add line." << endl;
+
+    cout << "player 2 no facless." << endl;
     return 0;
 }
