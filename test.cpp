@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
     cout << i << endl;
     cout << "branch add line." << endl;
     cout << "master add line." << endl;
+    cout << "branch2 add line." << endl;
     cout << buf1[2] << " " << buf2[3] << endl;
     return 0;
 }
