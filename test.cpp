@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
     int i = strcmp(buf1, buf2);
     cout << i << endl;
     cout << "branch add line." << endl;
+    cout << "branch2 add line." << endl;
     cout << buf1[2] << " " << buf2[3] << endl;
     return 0;
 }
